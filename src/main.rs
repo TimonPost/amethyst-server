@@ -69,25 +69,25 @@ fn start_server() {
 
 fn start_client() {
     // send udp packets
-//    {
-//        let mut packet = Packet::new("127.0.0.1:12342".parse().unwrap(), vec![0, 1, 2, 3, 4, 5].into_boxed_slice(), DeliveryMethod::ReliableUnordered);
-//
-//        let addr: SocketAddr = "127.0.0.1:12344".parse().unwrap();
-//        let mut socket = UdpSocket::bind(addr, NetworkConfig::default()).unwrap();
-//
-//        println!("Sending UDP data...");
-//        for i in 0..100 {
-//            socket.send(&packet);
-//        }
-//        println!("Sent all UDP data...");
-//    }
+    {
+        let mut packet = Packet::new("127.0.0.1:12342".parse().unwrap(), vec![0, 1, 2, 3, 4, 5].into_boxed_slice(), DeliveryMethod::ReliableUnordered);
 
-//     send tcp packets
+        let addr: SocketAddr = "127.0.0.1:12344".parse().unwrap();
+        let mut socket = UdpSocket::bind(addr, NetworkConfig::default()).unwrap();
+
+        println!("Sending UDP data...");
+        for i in 0..100 {
+            socket.send(&packet);
+        }
+        println!("Sent all UDP data...");
+    }
+
+    // send tcp packets
     {
         let mut stream = TcpStream::connect("127.0.0.1:12343").unwrap();
 
         println!("Sending TCP data...");
-        for i in 0..200 {
+        for i in 0..100 {
             stream.write(vec![1,2,3,4].as_slice()).unwrap();
             stream.flush().unwrap();
         }

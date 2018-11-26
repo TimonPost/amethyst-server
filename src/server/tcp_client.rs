@@ -44,7 +44,7 @@ impl TcpClient {
         let mut data = vec![0 as u8; 1024];
         loop {
             if let Ok(mut l) = client.lock() {
-                match l.raw_stream.read_to_end(&mut data) {
+                match l.raw_stream.read(&mut data) {
                     Ok(size) => {
                         let received = &data[0..size];
                         println!("{:?}", received);
