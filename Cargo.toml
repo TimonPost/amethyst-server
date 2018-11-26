@@ -1,0 +1,8 @@
+[package]
+name = "amethyst-server"
+version = "0.1.0"
+authors = ["Timon <timonpost@hotmail.nl>"]
+
+[dependencies]
+log = "0.4.5"
+laminar = "0.1.0"
