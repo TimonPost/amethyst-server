@@ -1,0 +1,11 @@
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/deps/libfluent_locale-fb5af38f886f8a88.rlib: /home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/lib.rs /home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/accepted_languages.rs /home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/locale/mod.rs /home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/locale/options.rs /home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/locale/parser.rs /home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/negotiate/mod.rs /home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/negotiate/likely_subtags.rs
+
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/deps/fluent_locale-fb5af38f886f8a88.d: /home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/lib.rs /home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/accepted_languages.rs /home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/locale/mod.rs /home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/locale/options.rs /home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/locale/parser.rs /home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/negotiate/mod.rs /home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/negotiate/likely_subtags.rs
+
+/home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/lib.rs:
+/home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/accepted_languages.rs:
+/home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/locale/mod.rs:
+/home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/locale/options.rs:
+/home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/locale/parser.rs:
+/home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/negotiate/mod.rs:
+/home/timon/.cargo/registry/src/github.com-1ecc6299db9ec823/fluent-locale-0.4.1/src/negotiate/likely_subtags.rs:

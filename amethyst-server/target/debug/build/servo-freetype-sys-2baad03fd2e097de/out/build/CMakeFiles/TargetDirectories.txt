@@ -1,0 +1,10 @@
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/servo-freetype-sys-2baad03fd2e097de/out/build/CMakeFiles/install/strip.dir
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/servo-freetype-sys-2baad03fd2e097de/out/build/CMakeFiles/install/local.dir
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/servo-freetype-sys-2baad03fd2e097de/out/build/CMakeFiles/install.dir
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/servo-freetype-sys-2baad03fd2e097de/out/build/CMakeFiles/list_install_components.dir
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/servo-freetype-sys-2baad03fd2e097de/out/build/CMakeFiles/dist.dir
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/servo-freetype-sys-2baad03fd2e097de/out/build/CMakeFiles/edit_cache.dir
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/servo-freetype-sys-2baad03fd2e097de/out/build/CMakeFiles/package.dir
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/servo-freetype-sys-2baad03fd2e097de/out/build/CMakeFiles/freetype.dir
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/servo-freetype-sys-2baad03fd2e097de/out/build/CMakeFiles/package_source.dir
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/servo-freetype-sys-2baad03fd2e097de/out/build/CMakeFiles/rebuild_cache.dir

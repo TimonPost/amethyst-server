@@ -1,0 +1,4 @@
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/lib/libexpat.a
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/include/expat.h
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/include/expat_external.h
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/lib/pkgconfig/expat.pc

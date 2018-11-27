@@ -1,0 +1,1 @@
+{"rustc":3409524444662720818,"features":"[\"ansi_term\", \"color\", \"default\"]","target":15123924147211628564,"profile":7990393541957723157,"path":960721612462889002,"deps":[["ansi_term v0.11.0","ansi_term",15179771695137464842]],"local":[{"Precalculated":"0.1.0"}],"rustflags":[],"edition":"Edition2015"}

@@ -1,0 +1,1 @@
+{"rustc":3409524444662720818,"features":"[]","target":9249364061352393062,"profile":7990393541957723157,"path":2660858736417073400,"deps":[["crossbeam-deque v0.2.0","crossbeam_deque",9442254396527629340],["either v1.5.0","either",371412038504164452],["rayon-core v1.4.1","rayon_core",5101938696279086159]],"local":[{"Precalculated":"1.0.3"}],"rustflags":[],"edition":"Edition2015"}

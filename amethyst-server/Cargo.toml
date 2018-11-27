@@ -1,0 +1,9 @@
+[package]
+name = "amethyst"
+version = "0.1.0"
+authors = ["Timon <timonpost@hotmail.nl>"]
+
+[dependencies]
+log = "0.4.5"
+amethyst = { git = 'https://github.com/amethyst/amethyst', branch = "master" }
+

@@ -1,0 +1,1 @@
+{"rustc":3409524444662720818,"features":"[]","target":7841552111429713890,"profile":7990393541957723157,"path":14587487555058840403,"deps":[["alsa-sys v0.1.2","alsa_sys",15445593957276592604],["lazy_static v1.2.0","lazy_static",5297927748525736878],["libc v0.2.44","libc",392404879857106062]],"local":[{"Precalculated":"0.8.2"}],"rustflags":[],"edition":"Edition2015"}

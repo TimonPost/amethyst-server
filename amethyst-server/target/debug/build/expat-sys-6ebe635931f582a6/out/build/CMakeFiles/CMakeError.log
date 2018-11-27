@@ -1,0 +1,214 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: ;-ffunction-sections;-fdata-sections;-fPIC;-m64
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: ;-ffunction-sections;-fdata-sections;-fPIC;-m64
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: ;-ffunction-sections;-fdata-sections;-fPIC;-m64
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: ;-ffunction-sections;-fdata-sections;-fPIC;-m64
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: ;-ffunction-sections;-fdata-sections;-fPIC;-m64
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: ;-ffunction-sections;-fdata-sections;-fPIC;-m64
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: ;-ffunction-sections;-fdata-sections;-fPIC;-m64
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: ;-ffunction-sections;-fdata-sections;-fPIC;-m64
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: 
+Id flags: -c 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+No such file or directory
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: c++ 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+No such file or directory
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Determining if the off_t exist failed with the following output:
+Change Dir: /home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f5a5d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f5a5d.dir/build.make CMakeFiles/cmTC_f5a5d.dir/build
+make[1]: Entering directory '/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f5a5d.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -ffunction-sections -fdata-sections -fPIC -m64    -o CMakeFiles/cmTC_f5a5d.dir/CheckSymbolExists.c.o   -c /home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: expected expression before ‘off_t’
+   return ((int*)(&off_t))[argc];
+                   ^~~~~
+CMakeFiles/cmTC_f5a5d.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_f5a5d.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_f5a5d.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_f5a5d/fast' failed
+make: *** [cmTC_f5a5d/fast] Error 2
+
+File /home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/types.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef off_t
+  return ((int*)(&off_t))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the size_t exist failed with the following output:
+Change Dir: /home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_67992/fast"
+/usr/bin/make -f CMakeFiles/cmTC_67992.dir/build.make CMakeFiles/cmTC_67992.dir/build
+make[1]: Entering directory '/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_67992.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -ffunction-sections -fdata-sections -fPIC -m64    -o CMakeFiles/cmTC_67992.dir/CheckSymbolExists.c.o   -c /home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: expected expression before ‘size_t’
+   return ((int*)(&size_t))[argc];
+                   ^~~~~~
+CMakeFiles/cmTC_67992.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_67992.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTC_67992.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_67992/fast' failed
+make: *** [cmTC_67992/fast] Error 2
+
+File /home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/types.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef size_t
+  return ((int*)(&size_t))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

@@ -1,0 +1,1 @@
+{"rustc":3409524444662720818,"features":"[\"default\", \"lock_api\", \"owning_ref\"]","target":8207836283997448013,"profile":7990393541957723157,"path":17777696148661088549,"deps":[["lock_api v0.1.5","lock_api",15303116206146981245],["parking_lot_core v0.3.1","parking_lot_core",12784264447891083828]],"local":[{"Precalculated":"0.6.4"}],"rustflags":[],"edition":"Edition2015"}

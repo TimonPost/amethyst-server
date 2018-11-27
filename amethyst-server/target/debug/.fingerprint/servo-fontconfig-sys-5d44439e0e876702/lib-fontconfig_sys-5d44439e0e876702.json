@@ -1,0 +1,1 @@
+{"rustc":3409524444662720818,"features":"[]","target":12907194264360844560,"profile":7990393541957723157,"path":16715947512515026401,"deps":[["expat-sys v2.1.6","expat_sys",9175488157251245884],["servo-freetype-sys v4.0.4","freetype_sys",10157582330232743576]],"local":[{"Precalculated":"4.0.7"}],"rustflags":[],"edition":"Edition2015"}

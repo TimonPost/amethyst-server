@@ -1,0 +1,22 @@
+TARGET = Some("x86_64-unknown-linux-gnu")
+OPT_LEVEL = Some("0")
+HOST = Some("x86_64-unknown-linux-gnu")
+CC_x86_64-unknown-linux-gnu = None
+CC_x86_64_unknown_linux_gnu = None
+HOST_CC = None
+CC = None
+CFLAGS_x86_64-unknown-linux-gnu = None
+CFLAGS_x86_64_unknown_linux_gnu = None
+HOST_CFLAGS = None
+CFLAGS = None
+DEBUG = Some("true")
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-g" "-fno-omit-frame-pointer" "-m64" "-I" "minimp3/" "-Wall" "-Wextra" "-DMINIMP3_IMPLEMENTATION" "-o" "/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/minimp3-sys-8cf0da3706e29dc4/out/minimp3.o" "-c" "minimp3.c"
+exit code: 0
+AR_x86_64-unknown-linux-gnu = None
+AR_x86_64_unknown_linux_gnu = None
+HOST_AR = None
+AR = None
+running: "ar" "crs" "/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/minimp3-sys-8cf0da3706e29dc4/out/libminimp3.a" "/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/minimp3-sys-8cf0da3706e29dc4/out/minimp3.o"
+exit code: 0
+cargo:rustc-link-lib=static=minimp3
+cargo:rustc-link-search=native=/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/minimp3-sys-8cf0da3706e29dc4/out

@@ -1,0 +1,11 @@
+prefix=/home/timon/Documents/git/amethyst-server/amethyst-server/target/debug/build/expat-sys-6ebe635931f582a6/out
+exec_prefix=${prefix}/bin
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: expat
+Version: 2.1.0
+Description: expat XML parser
+URL: http://www.libexpat.org
+Libs: -L${prefix}/lib -lexpat
+Cflags: -I${prefix}/include

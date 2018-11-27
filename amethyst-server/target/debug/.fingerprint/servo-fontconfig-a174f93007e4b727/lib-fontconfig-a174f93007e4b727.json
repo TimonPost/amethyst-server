@@ -1,0 +1,1 @@
+{"rustc":3409524444662720818,"features":"[]","target":7475900706887479183,"profile":7990393541957723157,"path":1748288439456056461,"deps":[["libc v0.2.44","libc",392404879857106062],["servo-fontconfig-sys v4.0.7","fontconfig_sys",3002627527331485685]],"local":[{"Precalculated":"0.4.0"}],"rustflags":[],"edition":"Edition2015"}

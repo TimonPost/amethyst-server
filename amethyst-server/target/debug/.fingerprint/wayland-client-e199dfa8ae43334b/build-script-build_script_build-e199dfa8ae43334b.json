@@ -1,0 +1,1 @@
+{"rustc":3409524444662720818,"features":"[\"cursor\", \"dlopen\", \"egl\", \"native_lib\", \"wayland-commons\", \"wayland-sys\"]","target":4944179213620976468,"profile":7282077418741342047,"path":7278839991495078274,"deps":[["wayland-scanner v0.21.6","wayland_scanner",4262380394111888836]],"local":[{"Precalculated":"0.21.6"}],"rustflags":[],"edition":"Edition2015"}

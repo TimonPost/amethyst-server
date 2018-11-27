@@ -1,0 +1,1 @@
+{"rustc":3409524444662720818,"features":"[\"default\", \"servo-freetype-sys\"]","target":9731138572582695936,"profile":7990393541957723157,"path":9717506622774254826,"deps":[["libc v0.2.44","libc",392404879857106062],["servo-freetype-sys v4.0.4","freetype_sys",10157582330232743576]],"local":[{"Precalculated":"0.4.1"}],"rustflags":[],"edition":"Edition2015"}
